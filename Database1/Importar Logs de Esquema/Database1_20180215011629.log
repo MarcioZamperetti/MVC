@@ -1,0 +1,77 @@
+15/02/2018 11:16:29	Este log contém informações sobre a operação do esquema importado no projeto 'Database1' no computador 'DESKTOP-ITS9191' pelo usuário 'marcio'.
+15/02/2018 11:16:29	A importação do esquema de banco de dados foi iniciada.
+15/02/2018 11:16:34	Coletando opções de banco de dados
+15/02/2018 11:16:34	Coletando usuários
+15/02/2018 11:16:34	Coletando funções
+15/02/2018 11:16:34	Coletando funções de aplicativo
+15/02/2018 11:16:34	Coletando associações de função
+15/02/2018 11:16:34	Coletando grupos de arquivos
+15/02/2018 11:16:34	Coletando catálogos de texto completo
+15/02/2018 11:16:34	Coletando assemblies
+15/02/2018 11:16:34	Coletando certificados
+15/02/2018 11:16:34	Coletando chaves assimétricas
+15/02/2018 11:16:34	Coletando chaves simétricas
+15/02/2018 11:16:34	Coletando chaves simétricas criptografadas
+15/02/2018 11:16:34	Coletando esquemas
+15/02/2018 11:16:34	Coletando coleções de esquema XML
+15/02/2018 11:16:34	Coletando tipos de dados definidos pelo usuário
+15/02/2018 11:16:34	Coletando tipos definidos pelo usuário
+15/02/2018 11:16:34	Coletando tipos de tabela
+15/02/2018 11:16:34	Coletando chaves exclusivas para tipos de tabela
+15/02/2018 11:16:34	Coletando chaves primárias para tipos de tabela
+15/02/2018 11:16:34	Reunindo índices para tipos de tabela
+15/02/2018 11:16:34	Coletando restrições de verificação para tipos de tabela
+15/02/2018 11:16:34	Coletando restrições padrão para tipos de tabela
+15/02/2018 11:16:34	Coletando funções de partição
+15/02/2018 11:16:34	Coletando esquemas de partição
+15/02/2018 11:16:34	Coletando funções
+15/02/2018 11:16:34	Coletando funções criptografadas
+15/02/2018 11:16:34	Coletando agregações
+15/02/2018 11:16:34	Coletando procedimentos
+15/02/2018 11:16:34	Coletando procedimentos criptografados
+15/02/2018 11:16:34	Coletando tabelas
+15/02/2018 11:16:34	Coletando chaves primárias
+15/02/2018 11:16:34	Coletando restrições exclusivas
+15/02/2018 11:16:34	Coletando chaves estrangeiras
+15/02/2018 11:16:34	Coletando restrições padrão
+15/02/2018 11:16:34	Coletando restrições de verificação
+15/02/2018 11:16:34	Coletando exibições
+15/02/2018 11:16:34	Coletando exibições criptografadas
+15/02/2018 11:16:34	Coletando índices
+15/02/2018 11:16:34	Coletando estatísticas
+15/02/2018 11:16:34	Coletando listas de palavras irrelevantes de índice de texto completo
+15/02/2018 11:16:34	Coletando listas de propriedades de pesquisa
+15/02/2018 11:16:34	Coletando propriedades de pesquisa
+15/02/2018 11:16:34	Coletando índices de texto completo
+15/02/2018 11:16:34	Coletando índices de repositório de coluna
+15/02/2018 11:16:34	Coletando índices espaciais
+15/02/2018 11:16:34	Coletando índices XML
+15/02/2018 11:16:34	Reunindo índices XML Seletivos
+15/02/2018 11:16:34	Coletando gatilhos criptografados
+15/02/2018 11:16:34	Coletando gatilhos
+15/02/2018 11:16:34	Coletando gatilhos ddl criptografados e clr
+15/02/2018 11:16:34	Coletando gatilhos ddl
+15/02/2018 11:16:34	Coletando sinônimos
+15/02/2018 11:16:34	Coletando padrões
+15/02/2018 11:16:34	Coletando ligações uddt de restrições de dados
+15/02/2018 11:16:34	Coletando regras
+15/02/2018 11:16:34	Coletando ligações uddt de restrições de dados
+15/02/2018 11:16:34	Coletando tipos de mensagem
+15/02/2018 11:16:34	Coletando filas
+15/02/2018 11:16:34	Coletando contratos
+15/02/2018 11:16:34	Coletando serviços
+15/02/2018 11:16:34	Coletando notificações de eventos
+15/02/2018 11:16:34	Coletando ligações de serviço remoto
+15/02/2018 11:16:34	Coletando prioridades do agente
+15/02/2018 11:16:34	Coletando assinaturas
+15/02/2018 11:16:34	Coletando opções de compactação de dados
+15/02/2018 11:16:34	Coletando tipos de sequência
+15/02/2018 11:16:34	Coletando propriedades estendidas
+15/02/2018 11:16:34	Coletando credenciais
+15/02/2018 11:16:34	Coletando logons
+15/02/2018 11:16:34	Coletando auditorias de servidor
+15/02/2018 11:16:35	Examinando projeto para elementos duplicados
+15/02/2018 11:16:35	Processamento de elementos duplicados concluído
+15/02/2018 11:16:36	Importação do banco de dados concluída.
+15/02/2018 11:16:36	Um resumo da importação foi salvo no seguinte local: C:\Users\marcio\source\repos\introdução\Database1\Importar Logs de Esquema\Database1_20180215011629.log.
+15/02/2018 11:16:36	Clique em Concluir para continuar...

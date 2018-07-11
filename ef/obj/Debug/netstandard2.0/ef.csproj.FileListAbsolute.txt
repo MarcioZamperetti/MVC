@@ -1,0 +1,9 @@
+C:\Users\marcio\source\repos\introdução\ef\bin\Debug\netstandard2.0\ef.deps.json
+C:\Users\marcio\source\repos\introdução\ef\bin\Debug\netstandard2.0\ef.dll
+C:\Users\marcio\source\repos\introdução\ef\bin\Debug\netstandard2.0\ef.pdb
+C:\Users\marcio\source\repos\introdução\ef\obj\Debug\netstandard2.0\ef.csprojResolveAssemblyReference.cache
+C:\Users\marcio\source\repos\introdução\ef\obj\Debug\netstandard2.0\ef.csproj.CoreCompileInputs.cache
+C:\Users\marcio\source\repos\introdução\ef\obj\Debug\netstandard2.0\ef.AssemblyInfoInputs.cache
+C:\Users\marcio\source\repos\introdução\ef\obj\Debug\netstandard2.0\ef.AssemblyInfo.cs
+C:\Users\marcio\source\repos\introdução\ef\obj\Debug\netstandard2.0\ef.dll
+C:\Users\marcio\source\repos\introdução\ef\obj\Debug\netstandard2.0\ef.pdb
