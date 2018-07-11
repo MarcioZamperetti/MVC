@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "Extjs";
+}
+
+<h2>Extjs</h2>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="../extjs/resources/css/ext-all.css">
+    <script type="text/javascript" src="../extjs/ext-all.js"></script>
+</head>
+<body></body>
+<script type="text/javascript">
+
+    Ext.onReady(function() {
+        Ext.MessageBox.alert('Hello', 'Hello, World!');
+    });
+
+    //////////////////////////////////////////
+    Ext.define('Botão1', {
+        extend: 'Ext.button.Button',
+    });
+
+
+    Ext.onReady(function() {
+
+        Ext.create('Botão1',{
+        text: 'Botão1',
+        renderTo: Ext.getBody()
+        });
+        Ext.create('Botão1', {
+            text: 'Botão2',
+            renderTo: Ext.getBody()
+        });
+        Ext.create('Botão1', {
+            text: 'Botão3',
+            renderTo: Ext.getBody()
+        });
+        Ext.create('Botão1', {
+            text: 'Botão4',
+            renderTo: Ext.getBody()
+        });
+        Ext.create('Botão1', {
+            text: 'Botão5',
+            renderTo: Ext.getBody()
+        });
+    });
+
+</script>

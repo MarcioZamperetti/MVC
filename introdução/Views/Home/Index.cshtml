@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "Calculadora";
+}
+
+<h2>Calculadora</h2>
+
+<body>
+    <div>
+        <form action="Home/calcula" method="get">
+            Numero 1
+            <input type="text" name="n1" />
+            <br />
+            Numero 2
+            <input type="text" name="n2" />
+            <br />
+            <input type="radio" name="operacao" value="+" />+<br />
+            <input type="radio" name="operacao" value="-" />-<br />
+            <input type="radio" name="operacao" value="*" />*<br />
+            <input type="radio" name="operacao" value="/" />/<br />
+            <input type="submit" value="resultado" />
+        </form>
+    </div>
+    <br /><br />
+    <div>
+        <h2>Surpresinha da Quina</h2>
+        <form action="Home/gerador" method="get">
+            <input type="submit" value="Gerar numeros da Quina" />
+        </form>
+    </div>
+    <br /><br /><br />
+    <div>
+        <h2>Gerador de Bilhete para Loteria</h2>
+        <form action="Home/gerador2" method="get">
+            Total de Dezenas:
+            <input type="text" name="total" />
+            <br />
+            Total e numeros selecionados:
+            <input type="text" name="ndezenas" />
+            <br />
+            Total de jogos:
+            <input type="text" name="jogos" />
+            <br />
+            <input type="submit" value="Gerar" />
+            <br />
+        </form>
+    </div>
+
+</body>
+
