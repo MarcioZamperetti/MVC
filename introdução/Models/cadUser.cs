@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
 
-namespace ProjetoASPNET_VazioComCRUD_EF62.Models
+namespace CRUD_EF.Models
 {
     public class cadUser
     {

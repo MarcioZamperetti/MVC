@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using ProjetoASPNET_VazioComCRUD_EF62.Models;
+using CRUD_EF.Models;
 using introdução.Models;
 
 namespace introdução.Controllers

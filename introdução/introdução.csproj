@@ -157,7 +157,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\cadUser.cs" />
-    <Compile Include="Models\Class1.cs" />
+    <Compile Include="Models\banco.cs" />
     <Compile Include="Models\introduçãoContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -1113,7 +1113,6 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Home\gerador2.cshtml" />
     <Content Include="Views\Home\usuarios.cshtml" />
     <Content Include="Views\bancoes\Create.cshtml" />
     <Content Include="Views\bancoes\Delete.cshtml" />

@@ -36,6 +36,6 @@ namespace introdução.Models
         {
         }
 
-        public System.Data.Entity.DbSet<ProjetoASPNET_VazioComCRUD_EF62.Models.cadUser> cadUsers { get; set; }
+        public System.Data.Entity.DbSet<CRUD_EF.Models.cadUser> cadUsers { get; set; }
     }
 }

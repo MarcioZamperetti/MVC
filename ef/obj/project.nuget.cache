@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E3J1SyQjL7NpXnMFvaJpcLo2lZd7zYuzOF9R37F1k1BKfP6lQ5AcC4RCEVD0NYo0QiDFyUtVoZpb5j+v47H8Vw==",
+  "success": true,
+  "projectFilePath": "D:\\Aplicacoes\\MVC\\MVC\\ef\\ef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

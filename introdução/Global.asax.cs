@@ -8,7 +8,7 @@ using System.Web.Optimization;
 using System.Web.Routing;
 using System.Data.Entity;
 using ProjetoASPNET_VazioComCRUD_EF6.Models;
-using ProjetoASPNET_VazioComCRUD_EF62.Models;
+using CRUD_EF.Models;
 using introdução.Models;
 using System.Data;
 
